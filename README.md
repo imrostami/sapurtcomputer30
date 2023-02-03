@@ -2,7 +2,7 @@
 اسم من محمد داداش رستمیه<br>توسعه دهنده دات نت<br>طراحی و توسعه سیستم های نرم افزاری <br>و از همه مهم تر اینکه عاشق دنیای اوپن سورسم<br>و اگه سورس باحالی نوشته باشم رو همینجا به اشتراکش میزارم
 
 
-## 🌐 Socials:
+## 🌐 شبکه های اجتماعی :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/oliver_ms#4202) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Oliver_mss) 
 
 # 💻 مهارت ها و توانایی های من:
